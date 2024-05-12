@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Chand</h1>
 <h3 align="center">Exploring the world of full stack web development !</h3>
 
-- 🔭 I’m currently working on [Doctor's appointment website](https://rohitchand12.github.io/Doctor_Appointment/)
+- 🔭 I’m currently working on [Ecommerce Website]
 
 - 🌱 I’m currently learning **React.js , Node.js , Express.js , MongoDB**
 
