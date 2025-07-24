@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Chand</h1>
 <h3 align="center">Exploring the world of full stack web development !</h3>
 
-- 🔭 I’m an intern at CRUX sphere technologies.
+- 🔭 I work at CRUX sphere technologies.
 
 - 🌱 I’m currently learning **React.js , Node.js , Express.js , MongoDB**
 
