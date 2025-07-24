@@ -2,9 +2,6 @@
 <h3 align="center">Exploring the world of full stack web development !</h3>
 
 - 🔭 I work at CRUX sphere technologies.
-
-- 🌱 I’m currently learning **React.js , Node.js , Express.js , MongoDB**
-
 - 📫 Reach me at **rohitchand490@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
