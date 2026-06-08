@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Chand</h1>
-<h3 align="center">Exploring the world of full stack web development !</h3>
+<h3 align="center">Exploring the world of full stack web development MERN + JAVA + Springboot !</h3>
 
-- 🔭 I work at CRUX sphere technologies.
+- 🔭 I work at Capgemini.
 - 📫 Reach me at **rohitchand490@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
